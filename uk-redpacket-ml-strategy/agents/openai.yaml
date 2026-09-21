@@ -1,0 +1,3 @@
+interface:
+  display_name: "UK红包机器学习测算"
+  short_description: "按历史权益组合预测 UK 红包新策略表现并输出测算表"
